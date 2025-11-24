@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p001",
+    "name": "Pan francés",
+    "description": "Pan crujiente por fuera y suave por dentro. Ideal para acompañar comidas.",
+    "price": 0.8,
+    "currency": "EUR",
+    "image": "/images/pan-frances.jpg",
+    "category": "Bollería",
+    "stock": 120,
+    "rating": 4.6,
+    "tags": ["tradicional", "sin lactosa"]
+  },
+  {
+    "id": "p002",
+    "name": "Medialuna dulce",
+    "description": "Medialuna clásica con glaseado ligero.",
+    "price": 1.2,
+    "currency": "EUR",
+    "image": "/images/medialuna.jpg",
+    "category": "Bollería",
+    "stock": 55,
+    "rating": 4.4,
+    "tags": ["dulce"]
+  },
+  {
+    "id": "p003",
+    "name": "Coca de espelta",
+    "description": "Coca rústica de harina de espelta y semillas.",
+    "price": 3.5,
+    "currency": "EUR",
+    "image": "/images/coca-espelta.jpg",
+    "category": "Repostería",
+    "stock": 20,
+    "rating": 4.8,
+    "tags": ["integral", "con semillas"]
+  },
+  {
+    "id": "p004",
+    "name": "Baguette integral",
+    "description": "Baguette de harina integral y masa madre.",
+    "price": 1.1,
+    "currency": "EUR",
+    "image": "/images/baguette-integral.jpg",
+    "category": "Panadería",
+    "stock": 80,
+    "rating": 4.5,
+    "tags": ["integral", "masa madre"]
+  },
+  {
+    "id": "p005",
+    "name": "Tarta de manzana (porción)",
+    "description": "Porción individual de tarta de manzana casera.",
+    "price": 2.8,
+    "currency": "EUR",
+    "image": "/images/tarta-manzana.jpg",
+    "category": "Repostería",
+    "stock": 16,
+    "rating": 4.9,
+    "tags": ["casera"]
+  },
+  {
+    "id": "p006",
+    "name": "Pan sin gluten",
+    "description": "Pan sin gluten, textura suave y buen sabor.",
+    "price": 2.4,
+    "currency": "EUR",
+    "image": "/images/pan-sin-gluten.jpg",
+    "category": "Especial",
+    "stock": 10,
+    "rating": 4.2,
+    "tags": ["sin-gluten"]
+  }
+]
